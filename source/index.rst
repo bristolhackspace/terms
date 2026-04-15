@@ -22,9 +22,9 @@ In the unlikely event that the organisation is wound up due to insolvency, as a 
 
 You agree to:
 
-- Make a monthly membership payment by direct debit, of at least our minimum amount.
-- Keep our legal record of your membership details up-to-date (name, address, email).
-- Never share your membership or keycard / fob with anyone else.
+#. Make a monthly membership payment by direct debit, of at least our minimum amount.
+#. Keep our legal record of your membership details up-to-date (name, address, email).
+#. Never share your membership or keycard / fob with anyone else.
 
 Health & safety
 ---------------
@@ -33,15 +33,15 @@ The Hackspace is an unsupervised shared workshop environment, containing a varie
 
 You agree to:
 
-- Always take reasonable care of your own and other people's safety.
-- Never circumvent or disable our safety equipment (such as guards, extraction, enclosures, electrical earthing, or interlocks).
-- Hold a valid safety induction when using any equipment that requires one, and follow the directions in your induction.
-- Follow the instructions on all safety signage.
-- Wear PPE where indicated.
-- Stop and reconsider how you are working, if another member warns you that you are not working safely.
-- Never modify our equipment. Seek authorisation from the committee before repairing equipment.
-- Never use modified, damaged, or incomplete equipment.
-- Familiarise yourself with our fire procedures.
+#. Always take reasonable care of your own and other people's safety.
+#. Never circumvent or disable our safety equipment (such as guards, extraction, enclosures, electrical earthing, or interlocks).
+#. Hold a valid safety induction when using any equipment that requires one, and follow the directions in your induction.
+#. Follow the instructions on all safety signage.
+#. Wear PPE where indicated.
+#. Stop and reconsider how you are working, if another member warns you that you are not working safely.
+#. Never modify our equipment. Seek authorisation from the committee before repairing equipment.
+#. Never use modified, damaged, or incomplete equipment.
+#. Familiarise yourself with our fire procedures.
 
 Lone Working
 ------------
@@ -54,11 +54,11 @@ It’s important that you always stay aware of whether you are currently lone wo
 
 When lone-working at Hackspace, you agree to:
 
-- Keep a means of seeking help (such as a charged mobile phone) on your person.
-- Before starting any activity, assess the risks involved and avoid tasks which are not suitable for lone working.
-- Never attempt manual handling activities that are not safe for one person.
-- Never use any machinery identified as not suitable for lone working.
-- Ensure you are familiar with the location and use of our first aid equipment.
+#. Keep a means of seeking help (such as a charged mobile phone) on your person.
+#. Before starting any activity, assess the risks involved and avoid tasks which are not suitable for lone working.
+#. Never attempt manual handling activities that are not safe for one person.
+#. Never use any machinery identified as not suitable for lone working.
+#. Ensure you are familiar with the location and use of our first aid equipment.
 
 Housekeeping
 ------------
@@ -67,10 +67,10 @@ Hackspace is 100% run by its members on a voluntary basis. There are no staff, s
 
 You agree to:
 
-- Always leave desks and work areas clear of items and ready for the next user.
-- Clean up any waste you make and dispose of it properly.
-- Put tools, equipment, and materials back in the correct places.
-- Use the forum to inform the committee if you find that something is broken, missing, or has run out. If equipment is out-of-order or unsafe, leave a notice on it too.
+#. Always leave desks and work areas clear of items and ready for the next user.
+#. Clean up any waste you make and dispose of it properly.
+#. Put tools, equipment, and materials back in the correct places.
+#. Use the forum to inform the committee if you find that something is broken, missing, or has run out. If equipment is out-of-order or unsafe, leave a notice on it too.
 
 Storage
 -------
@@ -83,9 +83,9 @@ We accept no liability for anything you leave in the space.
 
 You agree to:
 
-- Only store your belongings at Hackspace in accordance with our two storage systems, or with prior agreement from the committee.
-- Never store anything valuable at Hackspace.
-- Never leave or store dangerous items at the Hackspace, including volatile liquids, pressurised containers, and lithium batteries except those in consumer electronics.
+#. Only store your belongings at Hackspace in accordance with our two storage systems, or with prior agreement from the committee.
+#. Never store anything valuable at Hackspace.
+#. Never leave or store dangerous items at the Hackspace, including volatile liquids, pressurised containers, and lithium batteries except those in consumer electronics.
 
 Acceptable Usage
 ----------------
@@ -94,18 +94,18 @@ Hackspace is intended as a place to learn, make, repair, experiment, collaborate
 
 You agree to:
 
-- Never sleep in the Hackspace (or in a vehicle on the forecourt).
-- Never use Hackspace as your personal or business address.
-- Never remove tools or equipment from the space. We do not loan out equipment.
-- Never intentionally damage our equipment, fixtures and fittings, or the building.
-- Never use our bins for your household or business waste. The bins are only for waste generated when using the space.
-- Never monopolise shared resources to the detriment of other users.
-- Never leave the roller shutter or exterior doors open and unattended.
-- Never park the building forecourt, except when using our designated bay for loading or working on your vehicle. 
-- Never undertake work on your vehicle in our designated bay that could leave it disabled for longer than your visit.
-- Never charge your electric vehicle or personal transport device. 
-- Never leave any lithium battery charging unattended.
-- Never break the law when using the Hackspace.
+#. Never sleep in the Hackspace (or in a vehicle on the forecourt).
+#. Never use Hackspace as your personal or business address.
+#. Never remove tools or equipment from the space. We do not loan out equipment.
+#. Never intentionally damage our equipment, fixtures and fittings, or the building.
+#. Never use our bins for your household or business waste. The bins are only for waste generated when using the space.
+#. Never monopolise shared resources to the detriment of other users.
+#. Never leave the roller shutter or exterior doors open and unattended.
+#. Never park the building forecourt, except when using our designated bay for loading or working on your vehicle. 
+#. Never undertake work on your vehicle in our designated bay that could leave it disabled for longer than your visit.
+#. Never charge your electric vehicle or personal transport device. 
+#. Never leave any lithium battery charging unattended.
+#. Never break the law when using the Hackspace.
 
 Guests
 ------
@@ -116,11 +116,11 @@ Children (those under 18) and well-behaved pets are welcome as guests too, howev
 
 You agree to:
 
-- Inform your guests of Hackspace’s rules.
-- Never leave your guests in the space when you’re not there.
-- Never allow your guests to use equipment protected by a safety induction. Safety inductions are not transferable. 
-- Closely supervise guest children and pets at all times.
-- Keep pets out of the woodshop, metalshop, and hotworks area.
+#. Inform your guests of Hackspace’s rules.
+#. Never leave your guests in the space when you’re not there.
+#. Never allow your guests to use equipment protected by a safety induction. Safety inductions are not transferable. 
+#. Closely supervise guest children and pets at all times.
+#. Keep pets out of the woodshop, metalshop, and hotworks area.
 
 
 Safe(r) Space
@@ -130,6 +130,6 @@ We strive to be an inclusive environment where everyone feels welcome, respected
 
 You agree to: 
 
-- Always treat other members with respect, both in the space and online.
-- If asked, immediately stop any behaviour which makes others feel uncomfortable, intimidated, or harassed.
+#. Always treat other members with respect, both in the space and online.
+#. If asked, immediately stop any behaviour which makes others feel uncomfortable, intimidated, or harassed.
 

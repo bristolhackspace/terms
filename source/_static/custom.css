@@ -5,3 +5,16 @@
 .wy-side-nav-search a {
     color: #404040;
 }
+
+h1 {
+    counter-reset: section;
+}
+
+h2::before {
+	content: counter(section)". ";
+	counter-increment: section;
+}
+
+li::marker {
+    content: counter(section) "." counters(list-item, ".") ". ";
+}
