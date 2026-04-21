@@ -6,8 +6,8 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Hackspace Manual'
-copyright = '2025, Bristol Hackspace'
+project = 'Hackspace Legal'
+copyright = '2026, Bristol Hackspace'
 author = 'Bristol Hackspace'
 release = '0.1'
 
