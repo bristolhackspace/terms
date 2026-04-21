@@ -11,6 +11,10 @@
 Membership Agreement
 ====================
 
+Bristol Hackspace Membership Agreement Version 1.0. Adopted on 2026-04-14.
+
+We may modify or update this agreement from time to time. Notification of any changes will be given to members no less than two weeks prior to such changes taking effect.
+
 Membership
 ----------
 
