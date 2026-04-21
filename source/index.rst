@@ -5,8 +5,17 @@
 
 .. toctree::
    :hidden:
+   :caption: Agreements
 
    self
+
+.. toctree::
+   :hidden:
+   :caption: Policies
+
+   policies/complaints
+   policies/inclusion
+   policies/privacy
 
 Membership Agreement
 ====================

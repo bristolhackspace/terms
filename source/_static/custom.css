@@ -15,6 +15,6 @@ h2::before {
 	counter-increment: section;
 }
 
-li::marker {
+ol>li::marker {
     content: counter(section) "." counters(list-item, ".") ". ";
 }
